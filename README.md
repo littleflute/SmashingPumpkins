@@ -1,7 +1,10 @@
-[v0.0.5](https://github.com/littleflute/SmashingPumpkins/edit/master/README.md)
+[v0.0.6](https://github.com/littleflute/SmashingPumpkins/edit/master/README.md)
  
  
 [Gish (Deluxe Edition CD-DVD) Disc 2](Gish [Deluxe Edition CD-DVD] Disc 2)
+
+[Gish (LP)](Gish [LP])
+
 
 <audio controls id="player"> 
   <source src="https://littleflute.github.io/SmashingPumpkins/Oceania/01 Quasar.mp3" type="audio/mpeg">
