@@ -1,10 +1,10 @@
-[v0.0.5](https://github.com/littleflute/SmashingPumpkins/edit/master/Oceania/readme.md)
+[v0.0.6](https://github.com/littleflute/SmashingPumpkins/edit/master/Oceania/readme.md)
  
  
 [Gish (Deluxe Edition CD-DVD) Disc 2](Gish [Deluxe Edition CD-DVD] Disc 2)
 
 <audio controls id="player"> 
-  <source src="https://littleflute.github.io/SmashingPumpkins/Oceania/01 Starla [#][2011 Mix].mp3" type="audio/mpeg">
+  <source src="https://littleflute.github.io/SmashingPumpkins/Oceania/01 Quasar.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 <div id="xd"> 
