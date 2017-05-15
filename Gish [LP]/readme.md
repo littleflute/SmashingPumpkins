@@ -1,4 +1,4 @@
-[v0.0.8](https://github.com/littleflute/SmashingPumpkins/edit/master/Gish%20%5BLP%5D/readme.md)
+[v0.0.9](https://github.com/littleflute/SmashingPumpkins/edit/master/Gish%20%5BLP%5D/readme.md)
  
  
 [Gish (Deluxe Edition CD-DVD) Disc 2](Gish [Deluxe Edition CD-DVD] Disc 2)
@@ -38,6 +38,10 @@ function f(i)
     else if(i==3)
     {
     	s += "03 Rhinoceros";
+    }
+    else if(i==4)
+    {
+    	s += "04 Bury Me;
     }
     else
     {
