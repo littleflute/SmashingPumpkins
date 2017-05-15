@@ -1,4 +1,4 @@
-[v0.0.7](https://github.com/littleflute/SmashingPumpkins/edit/master/Gish%20%5BLP%5D/readme.md)
+[v0.0.8](https://github.com/littleflute/SmashingPumpkins/edit/master/Gish%20%5BLP%5D/readme.md)
  
  
 [Gish (Deluxe Edition CD-DVD) Disc 2](Gish [Deluxe Edition CD-DVD] Disc 2)
@@ -16,7 +16,7 @@ Your browser does not support the audio element.
 var d = document.getElementById("xd"); 
 var html = d.innerHTML; 
 html += " acdc<br>Highway To Hell [REMST]<br>CD:<br>";
-for(var n=1; n<=19; n++)
+for(var n=1; n<=10; n++)
 {	
  	html += fNewBtn(n);
 
