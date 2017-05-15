@@ -1,4 +1,4 @@
-[v0.0.6](https://github.com/littleflute/SmashingPumpkins/edit/master/README.md)
+[v0.0.7](https://github.com/littleflute/SmashingPumpkins/edit/master/Gish%20%5BLP%5D/readme.md)
  
  
 [Gish (Deluxe Edition CD-DVD) Disc 2](Gish [Deluxe Edition CD-DVD] Disc 2)
